@@ -1,0 +1,16 @@
+[
+{
+  "modid": "moosemod",
+  "name": "Moose Mod",
+  "description": "A mod with stuff and things.",
+  "version": "0.0.1-beta",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["aMooseinaBox"],
+  "credits": "aMooseinaBox",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

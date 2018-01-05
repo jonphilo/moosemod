@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B  ",
+    "BB ",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "moosemod:ingot_copper"
+    }
+  },
+  "result": {
+    "item": "moosemod:stairs_copper",
+    "count": 6
+  }
+}

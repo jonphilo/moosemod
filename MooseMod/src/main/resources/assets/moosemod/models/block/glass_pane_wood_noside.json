@@ -1,0 +1,6 @@
+{
+    "parent": "moosemod:block/wood_pane_noside",
+    "textures": {
+        "pane": "moosemod:blocks/glass_pane_wood"
+    }
+}

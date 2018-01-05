@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "moosemod:blocks/block_copper",
+        "top": "moosemod:blocks/block_copper",
+        "side": "moosemod:blocks/block_copper"
+    }
+}

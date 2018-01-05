@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "BBB",
+    "BBB",
+    "BBB"
+  ],
+
+  "key":
+  {
+    "B":
+    {
+      "item": "moosemod:ingot_copper"
+    }
+  },
+
+  "result":
+  {
+    "item": "moosemod:block_copper",
+    "count": 1
+  }
+}

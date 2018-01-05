@@ -1,0 +1,7 @@
+itemGroup.moosemod_tab=Moose Mod
+
+item.ingot_copper.name=Copper Ingot
+
+tile.block_copper.name=Copper Block
+tile.stairs_copper.name=Copper Stairs
+tile.glass_pane_wood.name=Wooden Glass Pane
